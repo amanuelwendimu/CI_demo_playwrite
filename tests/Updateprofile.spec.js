@@ -20,7 +20,7 @@ test.describe.serial('Update User Profile Flow', () => {
     await loginPage.login(loginData[0].username, loginData[0].password);
     updateprofilePage = new UpdateprofilePage(page);
   });
-  test('Update Profile Test @smoke ' , async () => {
+  test('Update Profile Test  ' , async () => {
     const data = UpdateprofileData[0];  // Read from JSON
 
     await updateprofilePage.navigateToProfile();
