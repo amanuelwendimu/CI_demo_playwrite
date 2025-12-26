@@ -5,7 +5,7 @@ const PayloadData = require('../data/Payload.json');
 function delay(ms) { return new Promise(r => setTimeout(r, ms)); }
 function round2(n) { return Number(n.toFixed(2)); }
 
-test.describe.serial("Next Gray hound Race Bets Flow", () => {
+test.describe.serial("Next Gray hound Race Bets Flow @smoke", () => {
 
   let grayHoundRacePage;
   let balanceBefore, exposureBefore, avltobetBefore;
