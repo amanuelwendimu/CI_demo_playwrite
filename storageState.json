@@ -1,0 +1,38 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://dev-desktop.freedemokit.com",
+      "localStorage": [
+        {
+          "name": "app",
+          "value": "{\"access_token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJTeks5IiwiZXhwIjoxNzYyNjE0NjY0LCJ0b2tlbiI6ImM1Njk2ZjIzLTliOTgtNGM3MC1hYTk4LTZhY2JkYzg3Y2U3OCIsInVzZXJfZmllbGRzIjp7IkNVUlJFTkNZIjoiIiwiRE9NQUlOX0lEIjoiMSIsIkRPTUFJTl9OQU1FIjoiZnJlZWRlbW9raXQuY29tIiwiRU1BSUwiOiIiLCJJRCI6IlN6SzkiLCJJU18yRkFfRU5BQkxFRCI6ImZhbHNlIiwiSVNfMkZBX1ZFUklGSUVEIjoiZmFsc2UiLCJJU19BQ1RJVkUiOiJ0cnVlIiwiSVNfQkxPQ0tFRCI6ImZhbHNlIiwiTEFOR1VBR0UiOiIiLCJOQU1FIjoiYW1hbmNvIiwiUEFSRU5UX0lEIjoiSWNKdyIsIlBFUk1JU1NJT05TIjoiY2FuU2V0VGFrZVJpc2ssY2FuVmlld0F1ZGl0TG9ncyxjYW5WaWV3QmV0SW5mbyxjYW5WaWV3QmV0U3RhdHVzLGNhblZpZXdCZXR0aW5nUG5MLGNhblZpZXdQTCIsIlJPTEVTIjoic3ViX2FjY291bnQiLCJVU0VSX0JFVFNMSVAiOiJ7XCJiZXRTbGlwU2V0dGluZ3NcIjp7XCJhcHBlYXJhbmNlXCI6XCJvbmVDbGlja0JldHRpbmdcIixcImNhc2hPdXRcIjpcIlwiLFwiZGVmYXVsdFN0YWtlXCI6XCIyXCIsXCJmbGFzaE9uUHJpY2VDaGFuZ2VcIjpcImRpc2FibGVcIixcInBlcnNpc3RlbmNlVHlwZVwiOlwiTEFQU0VcIixcIndoYXRJZkZpZ3VyZVwiOlwiZGlzYWJsZVwifSxcInF1aWNrQmV0QW1vdW50c1wiOltcIjAuMVwiLFwiMC4yXCIsXCIyXCIsXCIxMFwiLFwiMjBcIixcIjUwXCIsXCIxMDBcIl19IiwiV0hJVEVfTEFCRUxfMkZBX0VOQUJMRUQiOiJmYWxzZSIsIldISVRFX0xBQkVMX0JFVF9TTElQIjoie1wiYmV0U2xpcFNldHRpbmdzXCI6e1wiZGVmYXVsdFN0YWtlXCI6bnVsbCxcImZsYXNoT25QcmljZUNoYW5nZVwiOlwiZW5hYmxlXCJ9LFwicXVpY2tCZXRBbW91bnRzXCI6W1wiMVwiLFwiMlwiLFwiNVwiLFwiMTBcIixcIjIwXCIsXCI1MFwiLFwiMTAwXCJdfSJ9fQ.9wQd1gBRHE4n7Moc4FJaR_Ci46uMP1kDeuvrO4UTypc\",\"refresh_token\":\"SzK9=67987a83-f189-49aa-851f-b719d0eb9fc4\",\"user\":{\"CURRENCY\":\"\",\"DOMAIN_ID\":\"1\",\"DOMAIN_NAME\":\"freedemokit.com\",\"EMAIL\":\"\",\"ID\":\"SzK9\",\"IS_2FA_ENABLED\":\"false\",\"IS_2FA_VERIFIED\":\"false\",\"IS_ACTIVE\":\"true\",\"IS_BLOCKED\":\"false\",\"LANGUAGE\":\"\",\"NAME\":\"amanco\",\"PARENT_ID\":\"IcJw\",\"PERMISSIONS\":\"canSetTakeRisk,canViewAuditLogs,canViewBetInfo,canViewBetStatus,canViewBettingPnL,canViewPL\",\"ROLES\":\"sub_account\",\"USER_BETSLIP\":\"{\\\"betSlipSettings\\\":{\\\"appearance\\\":\\\"oneClickBetting\\\",\\\"cashOut\\\":\\\"\\\",\\\"defaultStake\\\":\\\"2\\\",\\\"flashOnPriceChange\\\":\\\"disable\\\",\\\"persistenceType\\\":\\\"LAPSE\\\",\\\"whatIfFigure\\\":\\\"disable\\\"},\\\"quickBetAmounts\\\":[\\\"0.1\\\",\\\"0.2\\\",\\\"2\\\",\\\"10\\\",\\\"20\\\",\\\"50\\\",\\\"100\\\"]}\",\"WHITE_LABEL_2FA_ENABLED\":\"false\",\"WHITE_LABEL_BET_SLIP\":\"{\\\"betSlipSettings\\\":{\\\"defaultStake\\\":null,\\\"flashOnPriceChange\\\":\\\"enable\\\"},\\\"quickBetAmounts\\\":[\\\"1\\\",\\\"2\\\",\\\"5\\\",\\\"10\\\",\\\"20\\\",\\\"50\\\",\\\"100\\\"]}\"}}"
+        },
+        {
+          "name": "wallet_balance",
+          "value": "{\"BALANCE\":\"-2977.03583333333333331\",\"CREATED_AT\":\"2025-04-28T12:24:15\",\"CURRENCY_CODE\":\"HKD\",\"ID\":40,\"IS_ACTIVE\":true,\"IS_FALLBACK\":true,\"LIABILITY\":\"0\",\"RISK_EXPOSURE\":\"0.0\",\"TOTAL_EXPOSURE\":\"0.0\",\"USER_ID\":\"SzK9\"}"
+        },
+        {
+          "name": "walletId",
+          "value": "40"
+        },
+        {
+          "name": "lastActivityTime",
+          "value": "1755414660733"
+        },
+        {
+          "name": "locale",
+          "value": "en"
+        },
+        {
+          "name": "symbols",
+          "value": "{\"Points\":\"\",\"USD\":\"$\",\"HKD\":\"HK$\",\"SGD\":\"S$\",\"EUR\":\"€\",\"GBP\":\"£\"}"
+        },
+        {
+          "name": "popularEvents",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
